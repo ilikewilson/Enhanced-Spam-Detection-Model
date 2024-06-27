@@ -22,9 +22,13 @@ TF-IDF Vectorization: Conversion of text messages into numerical feature vectors
 # Model Selection and Evaluation: Training and evaluation of multiple machine learning models:
 
 Logistic Regression
+
 Random Forest
+
 Support Vector Machine (SVM)
+
 Naive Bayes
+
 Performance metrics such as accuracy, precision, recall, and F1-score are calculated to assess model effectiveness.
 
 # Real-World Application
